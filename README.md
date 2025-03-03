@@ -1,19 +1,23 @@
 # Portfolio
 📊 Hari Datta Raja Ram - Data Scientist Portfolio
+
 Welcome to my personal portfolio showcasing my projects, skills, and career journey as a Data Scientist.
 
 🚀 About Me
+
 Data Science & AI Postgraduate (2024) with a BE in Mechatronics (2023)
 Passionate about data analysis, machine learning, and predictive modeling.
 Skilled at solving real-world problems using data-driven insights.
 
 
 📚 Education
+
 Executive Post Graduation in Data Science & AI - Completed in 2024
 BE Mechatronics - Completed in 2023
 
 
 🛠️ Skills
+
 Programming: Python, SQL
 Machine Learning: Regression, Classification, Clustering
 Data Analysis: Pandas, NumPy, Seaborn, Matplotlib
